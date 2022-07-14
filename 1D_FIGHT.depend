@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657801322 source:c:\users\edmond\documents\code blocks\practice\practice9\main.cpp
+	<iostream>
+	<random>
+	<ctime>
+
